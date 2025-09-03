@@ -1,7 +1,8 @@
 streamlit
 langchain
+langchain-community
 openai
 pandas
-langchain
-seaborn
 matplotlib
+seaborn
+numpy
