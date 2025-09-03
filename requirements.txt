@@ -4,4 +4,4 @@ openai
 pandas
 langchain
 seaborn
-matplotlib.pyplot
+matplotlib
